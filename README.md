@@ -1,19 +1,19 @@
 
 
-# 个人信息
+## 个人信息
 
  - **姓名**：沈林平
  - **手机**：15986943076
  - **Email**：shenmu.mail@gmail.com
  - **微信号**：lin-sleeping
- - **学校专业**：本科/肇庆学院电子信息科学与技术
+ - **学校专业**：本科/肇庆学院电子信息科学与技术（2011.09-2015.06）
  - **工作年限**：3年
  - **期望职位**：iOS工程师
  - **期望城市**：广州
  - **github**：http://github.com/shenlinping
  - **英语水平**：CTE-4
 
-# 工作经历
+## 工作经历
 
 ### 派生集团团贷网 （ 2017年06月 ~ 至今 ）
 
@@ -67,14 +67,8 @@
 二、使用WebViewJavascriptBridge,实现与UIWebView的JS交互。    
 三、app性能优化, 通过Instrument定位瓶颈, 优化tableView性能。     
 
-&nbsp;
-### 广州鼎力科技有限公司     （ 2015年02月 ~ 2015年07月 ）
-#### ZoomEye     
-能获取网络主流的短视频，使用人群广泛，利用用户的碎片时间。这个是自主项目,主要模仿了豆瓣的开眼。    
-
-
 &nbsp;&nbsp;
-# 个人作品
+## 个人作品
 ####  FrameCamera(https://github.com/ShenLinPing/FrameCamera）   
 **一款个人作品，采用纯swift编程，用户可以拍摄照片并生成定格视频，具有可编辑性。**   
 主要支持功能有：        
@@ -88,7 +82,7 @@
 
     
 &nbsp;&nbsp;
-# 技能清单
+## 技能清单
 - C / Objective-C / Swift / OC-Swift混编。
 - 掌握runtime的原理和实际应用。
 - 掌握MVC、MVVM等设计架构，熟练使用SingleTon、Delegate、Block等设计模式。 
@@ -104,6 +98,6 @@
 
       
 &nbsp;&nbsp;
-# 致谢
+## 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
