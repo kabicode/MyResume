@@ -12,6 +12,22 @@
  - **期望城市**：广州
  - **github**：http://github.com/shenlinping
  - **英语水平**：CTE-4
+ 
+&nbsp;&nbsp;
+## 技能清单
+- C / Objective-C / Swift / OC-Swift混编。
+- 掌握runtime的原理和实际应用。
+- 掌握MVC、MVVM等设计架构，熟练使用SingleTon、Delegate、Block等设计模式。 
+- 熟悉TCP、HTTP/HTTPS、Socket等通信协议。 
+- 熟练使用UIKit和可视化编程（Xib、StroyBoard）进行App的UI搭建。 
+- 熟练使用NSThread、NSOperation、GCD等多线程编程。 
+- 熟练使用CoreAnimation、CoreGraphics、CoreText等底层框架。 
+- 熟练使用AVFoundation 等音视频框架。 
+- 性能调优，熟练使用Xcode自带的调试工具，定位app的性能瓶颈并进行优化。 
+- 调试工具：熟练使用Postman，Charles，Reveal等工具提高工作效率。 
+- 能独立开发项目，自主解决问题能力强，能根据项目需求选择适合的技术方案。 
+- 具备阅读Apple官方文档，和阅读主流第三方框架源码的能力。
+
 
 ## 工作经历
 
@@ -84,22 +100,6 @@ iOS工程师
  三、背景音乐功能。    
 可以给定格视频添加自定义音频，也可以给定格视频实时录音。    
 四、可以调整每张照片在定格视频中的持续时间，可以试看编辑后的视频，生成的视频可保存到本地相册。   
-
-    
-&nbsp;&nbsp;
-## 技能清单
-- C / Objective-C / Swift / OC-Swift混编。
-- 掌握runtime的原理和实际应用。
-- 掌握MVC、MVVM等设计架构，熟练使用SingleTon、Delegate、Block等设计模式。 
-- 熟悉TCP、HTTP/HTTPS、Socket等通信协议。 
-- 熟练使用UIKit和可视化编程（Xib、StroyBoard）进行App的UI搭建。 
-- 熟练使用NSThread、NSOperation、GCD等多线程编程。 
-- 熟练使用CoreAnimation、CoreGraphics、CoreText等底层框架。 
-- 熟练使用AVFoundation 等音视频框架。 
-- 性能调优，熟练使用Xcode自带的调试工具，定位app的性能瓶颈并进行优化。 
-- 调试工具：熟练使用Postman，Charles，Reveal等工具提高工作效率。 
-- 能独立开发项目，自主解决问题能力强，能根据项目需求选择适合的技术方案。 
-- 具备阅读Apple官方文档，和阅读主流第三方框架源码的能力。
 
       
 &nbsp;&nbsp;
