@@ -16,7 +16,7 @@
 &nbsp;&nbsp;
 ## 技能清单
 - C / Objective-C / Swift / OC-Swift混编。
-- 掌握runtime的原理和实际应用。
+- 掌握Runtime、RunLoop的原理和实际应用。
 - 掌握MVC、MVVM等设计架构，熟练使用SingleTon、Delegate、Block等设计模式。 
 - 熟悉TCP、HTTP/HTTPS、Socket等通信协议。 
 - 熟练使用UIKit和可视化编程（Xib、StroyBoard）进行App的UI搭建。 
@@ -91,7 +91,7 @@ iOS工程师
 
 &nbsp;&nbsp;
 ## 个人作品
-####  FrameCamera(https://github.com/ShenLinPing/FrameCamera）   
+####  FrameCamera( https://github.com/kabicode/FrameCamera ）   
 **一款个人作品，采用纯swift编程，用户可以拍摄照片并生成定格视频，具有可编辑性。**   
 主要支持功能有：        
 一、绿幕功能。   
